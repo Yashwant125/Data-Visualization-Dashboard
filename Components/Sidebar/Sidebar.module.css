@@ -1,0 +1,22 @@
+
+
+.sidebar{
+    background-color: #121619;
+    color: rgb(244, 250, 255);
+}
+
+.lastItem{
+   padding-top: 85% !important;
+}
+
+.icon{
+    color: aliceblue;
+
+}
+
+.menuItems{
+    padding-left: 10% !important;
+}
+.menuIcon{
+    color: #121619;
+}
